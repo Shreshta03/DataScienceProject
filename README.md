@@ -1,0 +1,2 @@
+# DataScienceProject
+PREDICTION OF DIABETES
